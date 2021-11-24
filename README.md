@@ -13,16 +13,20 @@ Each meeting file will follow the structure below.
 When creating a new meeting entry, copy this structure and fill in the contents replacing `TO FILL`.
 
 ```md
-## Date, Time:
+---
+datetime: 2021-01-01T14:00:00+01:00
+location: My Location
+teams:
+  - sig-my-group
+participants:
+  - Participant1
+  - Participant2
+---
+
+### Agenda
 TO FILL
-## Location:
+### Discussions
 TO FILL
-### Participants:
-TO FILL
-### Agenda:
-TO FILL
-### Discussions:
-TO FILL
-### Tasks / Decisions:
+### Tasks / Decisions
 TO FILL
 ```
