@@ -9,3 +9,4 @@ Topics to discuss during maintainers meetings.
 * memory randomization (+loading) (Marc, Simon)
 * GitHub role updates (Alex, RăzvanD)
 * coding style guidelines (Marc)
+* memory ballooning (Cezar)
