@@ -33,7 +33,7 @@ MR: `spinlock.h` could be deleted.
 
 EM: All definitions go into the header.
 
-###TODOs and Decisions
+### TODOs and Decisions
 
 RM: Create PR with the work already done and continue it.
 
